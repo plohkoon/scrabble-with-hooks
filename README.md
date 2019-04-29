@@ -1,3 +1,11 @@
+### Description
+
+This is a first dive into how to use react hooks by making a scrabble game, nothing super crazy, alot of the logic is already there in the chess game.
+
+The letter lists are stored in a custom hook that has a reducer in it allowing for addition and subtraction of letters
+
+### React info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
